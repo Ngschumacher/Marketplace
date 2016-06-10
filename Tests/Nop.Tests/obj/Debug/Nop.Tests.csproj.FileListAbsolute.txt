@@ -1,0 +1,9 @@
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\Git\Marketplace\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Git\Marketplace\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+D:\Git\Marketplace\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\Git\Marketplace\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

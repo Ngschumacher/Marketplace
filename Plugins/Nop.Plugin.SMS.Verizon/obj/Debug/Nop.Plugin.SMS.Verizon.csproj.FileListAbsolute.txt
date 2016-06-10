@@ -1,0 +1,9 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Views\SmsVerizon\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb

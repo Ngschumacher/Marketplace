@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=localhost;Initial Catalog=Marketplace;Integrated Security=False;Persist Security Info=False;User ID=localhost;Password=localhost

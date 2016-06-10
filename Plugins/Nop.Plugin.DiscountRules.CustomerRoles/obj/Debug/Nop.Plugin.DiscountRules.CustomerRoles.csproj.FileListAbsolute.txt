@@ -1,0 +1,9 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\DiscountRulesCustomerRoles\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb

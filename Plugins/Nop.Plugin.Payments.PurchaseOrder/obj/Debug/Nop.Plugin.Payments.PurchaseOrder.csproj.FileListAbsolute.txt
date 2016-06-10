@@ -1,0 +1,10 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

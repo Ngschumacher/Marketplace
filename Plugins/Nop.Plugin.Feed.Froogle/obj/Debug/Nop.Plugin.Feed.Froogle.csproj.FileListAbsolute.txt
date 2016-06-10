@@ -1,0 +1,10 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

@@ -1,0 +1,12 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.App.config
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

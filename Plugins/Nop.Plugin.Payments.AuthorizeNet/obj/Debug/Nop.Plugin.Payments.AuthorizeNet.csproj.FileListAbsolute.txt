@@ -1,0 +1,11 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

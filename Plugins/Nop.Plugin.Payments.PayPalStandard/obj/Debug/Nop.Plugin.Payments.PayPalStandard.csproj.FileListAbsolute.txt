@@ -1,0 +1,12 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csprojResolveAssemblyReference.cache
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

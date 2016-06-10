@@ -1,0 +1,9 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

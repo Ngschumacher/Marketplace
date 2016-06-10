@@ -1,0 +1,9 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\ShippingUSPS\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

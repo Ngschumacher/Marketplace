@@ -1,0 +1,14 @@
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\Configure.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\ExternalAuthFacebook\PublicInfo.cshtml
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\Git\Marketplace\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+D:\Git\Marketplace\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\Git\Marketplace\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\Git\Marketplace\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb
