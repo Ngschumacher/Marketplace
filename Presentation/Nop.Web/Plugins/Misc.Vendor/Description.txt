@@ -1,0 +1,8 @@
+﻿Group: Misc
+FriendlyName: Vendor extensions
+SystemName: Misc.Vendor
+Version: 1.20
+SupportedVersions: 3.70
+Author: Niclas Schumacher
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.Vendor.dll
