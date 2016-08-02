@@ -2030,10 +2030,12 @@
     <Content Include="Views\Catalog\_CatalogSelectors.cshtml" />
     <Content Include="Views\Vendor\ApplyVendor.cshtml" />
     <Content Include="Views\Product\_Discontinued.cshtml" />
+    <Content Include="Themes\DefaultClean\Views\Shared\_ColumnsTwo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\Roxy_Fileman\tmp\" />
     <Folder Include="Plugins\bin\" />
+    <Folder Include="Themes\Creatio\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Libraries\Nop.Core\Nop.Core.csproj">

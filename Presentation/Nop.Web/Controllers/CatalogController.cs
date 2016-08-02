@@ -105,6 +105,7 @@ namespace Nop.Web.Controllers
             BlogSettings blogSettings,
             ForumSettings  forumSettings,
             ICacheManager cacheManager)
+			
         {
             this._categoryService = categoryService;
             this._manufacturerService = manufacturerService;
@@ -615,7 +616,7 @@ namespace Nop.Web.Controllers
         }
 
         [ChildActionOnly]
-        public ActionResult CategoryNavigation(int currentCategoryId, int currentProductId)
+        public ActionResult CategoryNavigation(int currentCategoryId, int currentProductId, int currentVendorId)
         {
             //get active category
             int activeCategoryId = 0;
@@ -626,11 +627,15 @@ namespace Nop.Web.Controllers
             }
             else if (currentProductId > 0)
             {
-                //product details page
-                var productCategories = _categoryService.GetProductCategoriesByProductId(currentProductId);
+				//product details page
+				var productCategories = _categoryService.GetProductCategoriesByProductId(currentProductId);
                 if (productCategories.Count > 0)
                     activeCategoryId = productCategories[0].CategoryId;
             }
+			else if (currentVendorId > 0)
+			{
+				//IList<ProductCategory> vendorCategories = _categoryService.GetProductCategoriesByVendorId(currentVendorId);
+			}
             string cacheKey = string.Format(ModelCacheEventConsumer.CATEGORY_NAVIGATION_MODEL_KEY, 
                 _workContext.WorkingLanguage.Id,
                 string.Join(",", _workContext.CurrentCustomer.GetCustomerRoleIds()), 

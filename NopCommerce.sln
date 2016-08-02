@@ -1,8 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
-MinimumVisualStudioVersion = 10.0.40219.1
+VisualStudioVersion = 14.0.25123.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{E4ACA93B-D3DE-4557-B069-F1DB42925A4B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{B09156FB-8291-46A2-AF37-67CE97CFB5A6}"
@@ -85,9 +84,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Misc.FacebookSho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.ExchangeRate.EcbExchange", "Plugins\Nop.Plugin.ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.csproj", "{6DF00C56-EC49-4AB8-8B29-404E3694026C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Marketplace", "Marketplace", "{EF2BD55E-8A2D-49F1-B08C-B8C043F6AD49}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Services1", "Marketplace.Services1\Marketplace.Services1.csproj", "{3153BAB8-D511-431D-852A-DA9B0EB22699}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nop.Plugin.Misc.Vendor", "Plugins\Nop.Plugin.Misc.Vendor\Nop.Plugin.Misc.Vendor.csproj", "{09C13ED1-5474-444A-836E-BDF7D010EB55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,18 +468,18 @@ Global
 		{6DF00C56-EC49-4AB8-8B29-404E3694026C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{6DF00C56-EC49-4AB8-8B29-404E3694026C}.Release|x86.ActiveCfg = Release|Any CPU
 		{6DF00C56-EC49-4AB8-8B29-404E3694026C}.Release|x86.Build.0 = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Debug|x86.Build.0 = Debug|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|x86.ActiveCfg = Release|Any CPU
-		{3153BAB8-D511-431D-852A-DA9B0EB22699}.Release|x86.Build.0 = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Debug|x86.Build.0 = Debug|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|x86.ActiveCfg = Release|Any CPU
+		{09C13ED1-5474-444A-836E-BDF7D010EB55}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -525,7 +522,7 @@ Global
 		{9978B382-0BCD-4621-B6B5-52E0E3B5F464} = {7881B112-7843-4542-B1F7-F99553FB9BB7}
 		{6216A5CA-8599-4B53-8E70-F21CC6D4273C} = {7881B112-7843-4542-B1F7-F99553FB9BB7}
 		{6DF00C56-EC49-4AB8-8B29-404E3694026C} = {7881B112-7843-4542-B1F7-F99553FB9BB7}
-		{3153BAB8-D511-431D-852A-DA9B0EB22699} = {EF2BD55E-8A2D-49F1-B08C-B8C043F6AD49}
+		{09C13ED1-5474-444A-836E-BDF7D010EB55} = {7881B112-7843-4542-B1F7-F99553FB9BB7}
 	EndGlobalSection
 	GlobalSection(NDepend) = preSolution
 		Project = ".\NopCommerce.ndproj"

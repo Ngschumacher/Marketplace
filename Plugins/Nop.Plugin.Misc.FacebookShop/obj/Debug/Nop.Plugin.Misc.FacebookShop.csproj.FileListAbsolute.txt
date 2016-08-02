@@ -23,6 +23,6 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Scripts\jquery
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll.config
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.dll
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Misc.FacebookShop\Nop.Plugin.Misc.FacebookShop.pdb
-D:\Git\Marketplace\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache
 D:\Git\Marketplace\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Misc.FacebookShop\obj\Debug\Nop.Plugin.Misc.FacebookShop.csprojResolveAssemblyReference.cache

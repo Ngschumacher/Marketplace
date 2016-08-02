@@ -6,6 +6,6 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
-D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
 D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache

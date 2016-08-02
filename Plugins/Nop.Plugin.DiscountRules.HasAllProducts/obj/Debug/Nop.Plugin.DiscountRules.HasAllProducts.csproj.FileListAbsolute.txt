@@ -6,6 +6,6 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\log
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll.config
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
-D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache
 D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache

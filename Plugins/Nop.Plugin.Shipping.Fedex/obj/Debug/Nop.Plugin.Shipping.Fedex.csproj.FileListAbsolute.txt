@@ -7,3 +7,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shippi
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache

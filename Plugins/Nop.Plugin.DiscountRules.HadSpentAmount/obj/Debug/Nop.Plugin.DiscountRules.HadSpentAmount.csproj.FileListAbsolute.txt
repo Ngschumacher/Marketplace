@@ -7,3 +7,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csprojResolveAssemblyReference.cache

@@ -8,3 +8,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugi
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache

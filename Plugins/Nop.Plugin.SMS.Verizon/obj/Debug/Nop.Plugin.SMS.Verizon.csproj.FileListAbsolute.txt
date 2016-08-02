@@ -7,3 +7,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Veriz
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\SMS.Verizon\Nop.Plugin.SMS.Verizon.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache

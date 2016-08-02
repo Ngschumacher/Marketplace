@@ -10,3 +10,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shi
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache

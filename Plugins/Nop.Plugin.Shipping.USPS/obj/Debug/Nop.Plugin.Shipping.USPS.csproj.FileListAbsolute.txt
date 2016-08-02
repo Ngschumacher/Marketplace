@@ -7,3 +7,4 @@ D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shippin
 D:\Git\Marketplace\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+D:\Git\Marketplace\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
